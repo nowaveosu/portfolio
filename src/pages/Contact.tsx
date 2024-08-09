@@ -1,11 +1,11 @@
 import { Link } from "react-router-dom";
+import prev_button from "../images/prev_button.png"
+
 function Contact() {
     return (
       <div>
+        <Link to="/projects"><img src={prev_button} alt="prev_button"/></Link>
         6
-        <button>
-          <Link to="/project"> go prev</Link>
-        </button>
       </div>
     );
   }
