@@ -1,4 +1,3 @@
-import React from 'react';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Introduction from './pages/Introduction';
 import Education from './pages/Education';
