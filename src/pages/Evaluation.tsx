@@ -7,7 +7,7 @@ function Evaluation() {
     return (
       <div>
         <Link to="/education"><img className="fixedPrev" src={prev_button} alt="prev button"/></Link>
-        3
+        <div className="content-box">3</div>
         <Link to="/experience"><img className="fixedNext" src={next_button} alt="next button"/></Link>
       </div>
     );

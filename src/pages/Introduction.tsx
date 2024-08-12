@@ -5,7 +5,7 @@ import "../GlobalStyle.css"
 function Introduction() {
   return (
     <div>
-      1
+      <div className="content-box">1</div>
       <Link to="/education"><img className="fixedNext" src={next_button} alt="next button"/></Link>
     </div>
   );

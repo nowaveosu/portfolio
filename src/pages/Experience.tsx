@@ -7,7 +7,7 @@ function Experience() {
     return (
       <div>
         <Link to="/evaluation"><img className="fixedPrev" src={prev_button} alt="prev button"/></Link>
-        4
+        <div className="content-box">4</div>
         <Link to="/projects"><img className="fixedNext" src={next_button} alt="next button"/></Link>
       </div>
     );

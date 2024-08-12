@@ -5,8 +5,8 @@ import "../GlobalStyle.css"
 function Contact() {
     return (
       <div>
-        <Link to="/projects"><img className="fixedPrev" src={prev_button} alt="prev_button"/></Link>
-        6
+        <Link to="/projects"><img className="fixedPrev"src={prev_button} alt="prev_button"/></Link>
+        <div className="content-box">6 Lorem I</div>
       </div>
     );
   }

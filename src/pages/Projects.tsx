@@ -7,7 +7,7 @@ function Projects() {
     return (
       <div>
         <Link to="/experience"><img className="fixedPrev" src={prev_button} alt="prev button"/></Link>
-        5
+        <div className="content-box">5</div>
         <Link to="/contact"><img className="fixedNext" src={next_button} alt="next button"/></Link>
       </div>
     );

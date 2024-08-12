@@ -7,7 +7,7 @@ function Education() {
     return (
       <div>
         <Link to="/"><img className="fixedPrev" src={prev_button} alt="prev button"/></Link>
-        2
+        <div className="content-box">2 Lorem I</div>
         <Link to="/evaluation"><img className="fixedNext" src={next_button} alt="next button"/></Link>
       </div>
     );
