@@ -14,7 +14,7 @@ function Welcome() {
                 <span className="vapour-span vapour-span-5"></span>
                 <span className="vapour-span vapour-span-4"></span>
                 <span className="vapour-span vapour-span-6"></span>
-                <span className="vapour-span vapour-span-19"></span>
+                <span className="vapour-span vapour-span-1"></span>
                 <span className="vapour-span vapour-span-7"></span>
                 <span className="vapour-span vapour-span-8"></span>
                 <span className="vapour-span vapour-span-9"></span>
@@ -25,10 +25,12 @@ function Welcome() {
         </div>
         <div className="lid"></div>
         <div className="cup">
-            
+          <div className="handle"></div>
         </div>
         <div className="bottom"></div>
+        
     </div>
+      
     </div>
   );
 }
