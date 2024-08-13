@@ -28,9 +28,9 @@ function Welcome() {
           <div className="handle"></div>
         </div>
         <div className="bottom"></div>
-        
+        <div className="message">어서오세요. 개발자 노호준의 포트폴리오입니다.</div>
     </div>
-      
+        
     </div>
   );
 }
