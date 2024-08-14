@@ -16,14 +16,45 @@
 }
 
 .content-box{
-  position: absolute;
-  top:50%;
-  left:50%;
+  position:absolute;
+  top: 15%;
+  left: 50%;
+  transform: translateX(-50%);
   width: 70%;
-  height: 40%;
+  min-height: 250px;
   border-radius: 10px;
-  transform: translate(-50%,-50%);
+  margin: 10px 0 10px;
   background-color: rgb(65, 62, 62);
   box-shadow: inset 0 0 7px rgb(0, 0, 0);
   padding: 20px;
 }
+
+ul{
+  list-style: none;
+}
+
+a{
+  text-decoration-line: none;
+  color: rgb(133, 166, 224);
+}
+
+.about{
+  width: 200px;
+  border-radius: 7px;
+  margin-bottom: 20px;
+}
+
+.about-li{
+  font-size: large;
+  font-weight: 600;
+}
+
+.about-box{
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-gap: 20px;
+}
+
+
+
+
