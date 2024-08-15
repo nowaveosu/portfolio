@@ -29,6 +29,16 @@
   padding: 20px;
 }
 
+.large-div{
+  font-size: large;
+  font-weight: 600;
+}
+
+.weight-div{
+  font-weight: 600;
+}
+
+
 ul{
   list-style: none;
 }
@@ -38,21 +48,32 @@ a{
   color: rgb(133, 166, 224);
 }
 
+
+
 .about{
   width: 200px;
   border-radius: 7px;
   margin-bottom: 20px;
+  margin-left: 20px;
+  
+}
+.small-li{
+  font-size: 4px;
+}
+.large-li{
+  font-size: large;
+  font-weight: 600;
+  margin-bottom: 5px;
 }
 
-.about-li{
-  font-size: large;
+.weight-li{
   font-weight: 600;
 }
 
 .about-box{
   display: grid;
   grid-template-columns: 1fr 2fr;
-  grid-gap: 20px;
+  
 }
 
 

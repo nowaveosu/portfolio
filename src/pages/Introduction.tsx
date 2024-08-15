@@ -12,7 +12,7 @@ function Introduction() {
         <div className="about-box">
           <img className="about" src={about} alt ="프사"></img>
           <ul className="about-ul">
-                <li className="about-li">소개</li>
+                <li className="large-li">소개</li>
                 <li><span>Name:</span> <a href="tel://01073513804">노호준</a></li>
                 <li><span>Email:</span> <a href="mailto:nowaveosu@gmail.com">nowaveosu@gmail.com</a></li>
                 <li><span>Phone: </span> <a href="tel://01073513804">010-7351-3804</a></li>
