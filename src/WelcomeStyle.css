@@ -1,6 +1,6 @@
 
 .fixedPrev {
-    position: absolute;
+    position: fixed;
     top:50%;
     transform: translateY(-50%);
     left: 0%;
@@ -8,7 +8,7 @@
 }
 
 .fixedNext {
-    position: absolute;
+    position: fixed;
     top:50%;
     transform: translateY(-50%);
     right: 0%;
