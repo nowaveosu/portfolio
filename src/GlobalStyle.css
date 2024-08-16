@@ -1,4 +1,27 @@
 
+ul{
+  list-style: none;
+}
+h3{
+  font-size: larger;
+}
+a{
+  text-decoration-line: none;
+  color: rgb(133, 166, 224);
+}
+video{
+  margin-top:30px;
+  margin-bottom:10px;
+}
+button {
+  background-color: gray;
+  border:none;
+  border-radius: 5px;
+  margin: 3px;
+}
+.emp{
+  font-weight: 600;
+}
 .fixedPrev {
     position: absolute;
     top:50%;
@@ -29,21 +52,13 @@
   padding: 40px;
 }
 
+.project{
+  margin-bottom:30px;
+}
 
 .weight-div{
   font-weight: 600;
 }
-
-
-ul{
-  list-style: none;
-}
-
-a{
-  text-decoration-line: none;
-  color: rgb(133, 166, 224);
-}
-
 
 .about{
   width: 200px;
