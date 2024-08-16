@@ -25,7 +25,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage":"http://nowaveosu.github.io/portfolio/",
+  "homepage":"https://nowaveosu.github.io/portfolio/",
   "eslintConfig": {
     "extends": [
       "react-app",
