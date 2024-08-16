@@ -7,7 +7,9 @@ function Projects() {
     return (
       <div>
         <Link to="/experience"><img className="fixedPrev" src={prev_button} alt="prev button"/></Link>
-        <div className="content-box">5</div>
+        <div className="content-box-small">
+          <video width="800" controls src="../videos/delete_1.mp4"></video>
+        </div>
         <Link to="/contact"><img className="fixedNext" src={next_button} alt="next button"/></Link>
       </div>
     );
