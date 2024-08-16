@@ -10,7 +10,7 @@ function Evaluation() {
     return (
       <div>
         <Link to="/education"><img className="fixedPrev" src={prev_button} alt="prev button"/></Link>
-        <div className="content-box">
+        <div className="content-box-small">
           <div className="large-div">팀원평가</div>
           <div>
             <div><img className="teampic" src={yeom} alt="yeom"></img>[FE] 염도경 </div>

@@ -7,7 +7,7 @@ function Education() {
     return (
       <div>
         <Link to="/introduction"><img className="fixedPrev" src={prev_button} alt="prev button"/></Link>
-        <div className="content-box">
+        <div className="content-box-small">
           <div className="large-div">학업</div>
           <div>2017-2023</div>
           <div className="weight-div" style={{marginBottom:"5px"}}>전남대학교 컴퓨터정보통신공학과 전공</div>

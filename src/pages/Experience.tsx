@@ -7,7 +7,7 @@ function Experience() {
     return (
       <div>
         <Link to="/evaluation"><img className="fixedPrev" src={prev_button} alt="prev button"/></Link>
-        <div className="content-box">
+        <div className="content-box-small">
           <div className="large-div">경험</div>
           <div>
             <div>2023.06</div>
@@ -25,6 +25,7 @@ function Experience() {
             <div className="weight-div">전남대 이노베이션 해커톤 특별상 수상</div>
             <div>flutter을 사용한 프론트엔드 개발 및 Google Map API 연동</div>
           </div>
+          
         </div>
         <Link to="/projects"><img className="fixedNext" src={next_button} alt="next button"/></Link>
       </div>

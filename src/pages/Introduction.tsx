@@ -8,7 +8,7 @@ function Introduction() {
   return (
     <div>
       <Link to="/"><img className="fixedPrev" src={prev_button} alt="prev button"/></Link>
-      <div className="content-box">
+      <div className="content-box-small">
         <div className="about-box">
           <img className="about" src={about} alt ="프사"></img>
           <ul className="about-ul">
