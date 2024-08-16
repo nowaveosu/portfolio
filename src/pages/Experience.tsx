@@ -8,14 +8,23 @@ function Experience() {
       <div>
         <Link to="/evaluation"><img className="fixedPrev" src={prev_button} alt="prev button"/></Link>
         <div className="content-box">
-          <div className="large-div">학업</div>
-          <div>2017-2023</div>
-          <div className="weight-div" style={{marginBottom:"5px"}}>전남대학교 컴퓨터정보통신공학과 전공</div>
-          <div style={{marginBottom:"18px"}}>컴퓨터공학과 전공자로, 재학중 2번의 앱 서비스 개발 및 해커톤에 참여, 1회 수상
-          4학년 학부연구생으로서 Python을 활용한 자동 채점 시스템 개발</div>
-          <div className="large-div">자격증</div>
-          <div>Toeic : 790</div>
-          <div>정보처리기사: 필기합격 (2024년 3회차)</div>
+          <div className="large-div">경험</div>
+          <div>
+            <div>2023.06</div>
+            <div className="weight-div">코드스테이츠 프론트엔드 개발자 부트캠프 수강</div>
+            <div style={{marginBottom:"18px"}}>Javascript, HTML, CSS, React, Typescript, 웹개발 기초 수강</div>
+          </div>
+          <div>
+            <div>2022.04</div>
+            <div className="weight-div">김영철 교수님 연구실 TA 참여</div>
+            <div>인공지능 수업의 학부연구생으로 매주 연구실 세미나 참석</div>
+            <div style={{marginBottom:"18px"}}>Python을 사용한 과제 그래프 판별 코드 제작</div>
+          </div>
+          <div>
+            <div>2021.09</div>
+            <div className="weight-div">전남대 이노베이션 해커톤 특별상 수상</div>
+            <div>flutter을 사용한 프론트엔드 개발 및 Google Map API 연동</div>
+          </div>
         </div>
         <Link to="/projects"><img className="fixedNext" src={next_button} alt="next button"/></Link>
       </div>
