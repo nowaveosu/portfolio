@@ -12,13 +12,13 @@ function Experience() {
           <div>
             <div>2023.06</div>
             <div className="weight-div">코드스테이츠 프론트엔드 개발자 부트캠프 수강</div>
-            <div style={{marginBottom:"18px"}}>Javascript, HTML, CSS, React, Typescript, 웹개발 기초 수강</div>
+            <div style={{marginBottom:"20px"}}>Javascript, HTML, CSS, React, Typescript, 웹개발 기초 수강</div>
           </div>
           <div>
             <div>2022.04</div>
             <div className="weight-div">김영철 교수님 연구실 TA 참여</div>
             <div>인공지능 수업의 학부연구생으로 매주 연구실 세미나 참석</div>
-            <div style={{marginBottom:"18px"}}>Python을 사용한 과제 그래프 판별 코드 제작</div>
+            <div style={{marginBottom:"20px"}}>Python을 사용한 과제 그래프 판별 코드 제작</div>
           </div>
           <div>
             <div>2021.09</div>

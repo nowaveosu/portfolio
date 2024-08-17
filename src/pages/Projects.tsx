@@ -8,7 +8,7 @@ function Projects() {
       <div>
         <Link to="/experience"><img className="fixedPrev" src={prev_button} alt="prev button"/></Link>
         <div className="content-box-small">
-          <h3>프로젝트</h3>
+          <div className="large-div" style={{marginTop: 20, marginBottom: 30}}>프로젝트</div>
             <div className="project">
               <div>2024.07</div>
               <div><div className="large-div">[hyper-tictactoe] 독특한 룰을 여러개 적용한 1인개발 온라인 매칭 틱택토게임&nbsp;

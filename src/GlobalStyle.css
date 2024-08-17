@@ -2,9 +2,7 @@
 ul{
   list-style: none;
 }
-h3{
-  font-size: larger;
-}
+
 a{
   text-decoration-line: none;
   color: rgb(133, 166, 224);
@@ -40,11 +38,11 @@ button {
 
 .content-box-small{
   position:absolute;
-  top: 15%;
+  top: 25%;
   left: 50%;
   transform: translateX(-50%);
   width: 60%;
-  min-height: 250px;
+  min-height: 320px;
   border-radius: 10px;
   margin: 10px 0 10px;
   background-color: rgb(65, 62, 62);
@@ -61,17 +59,18 @@ button {
 }
 
 .about{
-  width: 200px;
+  width: 240px;
   border-radius: 7px;
+  margin-top: 20px;
   margin-bottom: 20px;
-  margin-left: 20px;
+  margin-left: 3vw;
   
 }
 
 .large-div{
-  font-size: large;
+  font-size: larger;
   font-weight: 600;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
 
 .weight-div{
