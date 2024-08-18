@@ -12,10 +12,11 @@ video{
   margin-bottom:10px;
 }
 button {
-  background-color: gray;
+  background-color: rgb(109, 109, 109);
   border:none;
   border-radius: 5px;
   margin: 3px;
+  height: 25px;
 }
 .emp{
   font-weight: 600;
@@ -64,6 +65,7 @@ button {
   margin-top: 20px;
   margin-bottom: 20px;
   margin-left: 3vw;
+  color: rgb(55, 55, 211)
   
 }
 
