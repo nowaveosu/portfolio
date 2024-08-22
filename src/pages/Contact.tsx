@@ -1,8 +1,14 @@
 import { Link } from "react-router-dom";
 import prev_button from "../images/prev_button.png"
 import "../GlobalStyle.css"
+import { useState } from "react";
+
 
 function Contact() {
+    const [number, setNumber] = useState(3);
+    const getRandomNumber = () => {
+      setNumber(Math.random());
+    }
     return (
       <div>
         <Link to="/projects"><img className="fixedPrev"src={prev_button} alt="prev_button"/></Link>
@@ -13,6 +19,8 @@ function Contact() {
             <div className="weight-div">Mail: <a href="mailto:nowaveosu@gmail.com">nowaveosu@gmail.com</a></div>
             <div className="weight-div">Github: <a href="https://github.com/nowaveosu">github.com/nowaveosu</a></div>
             <div className="weight-div">blog: <a href="https://velog.io/@nowaveosu">velog.io/@nowaveosu</a></div>
+            <button onClick={getRandomNumber}>{number}</button>
+
           </div>
         </div>
       </div>
