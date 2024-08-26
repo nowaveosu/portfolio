@@ -14,6 +14,7 @@ function Introduction() {
           <ul className="about-ul">
                 <li className="large-div">소개</li>
                 <li><span className="weight-div">Name:</span> <a href="tel://01073513804">노호준</a></li>
+                <li><span className="weight-div">Birth:</span> <a href="tel://01073513804">98년 8월 24일</a></li>
                 <li><span className="weight-div">Email:</span> <a href="mailto:nowaveosu@gmail.com">nowaveosu@gmail.com</a></li>
                 <li><span className="weight-div">Phone: </span> <a href="tel://01073513804">010-7351-3804</a></li>
                 <li><span className="weight-div">github:</span> <a href="https://github.com/nowaveosu">github.com/nowaveosu</a></li>
