@@ -19,3 +19,15 @@ body {
 code {
   font-family: 'GowunDodum-Regular';
 }
+
+.modebtn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  width: 48px;
+  height: 48px;
+}
