@@ -76,15 +76,6 @@ function Projects() {
               <div style={{marginBottom:"7px"}}><span className="emp">기술 스택 :</span> flutter, firebase</div>
               <div style={{marginBottom:"7px"}}><span className="emp">담당기능 :</span> flutter을 사용한 프론트엔드 개발 및 Google Map API 연동</div>
             </div>
-            <div className="project">
-              <div>2021.08</div>
-              <div><div className="large-div">[토이 프로젝트] 손에 맞는 마우스 추천 사이트&nbsp;
-                <button><a style={{color: "rgb(126, 206, 249)"}} href="https://github.com/nowaveosu/lifemouse" target="_blank" rel="noreferrer">Github</a></button>
-                <button><a style={{color: "rgb(126, 206, 249)"}} href="https://nowaveosu.github.io/lifemouse/welcome.html" target="_blank" rel="noreferrer">Link</a></button>
-                </div></div>
-              <div style={{marginBottom:"7px"}}><span className="emp">기술 스택 :</span> HTML</div>
-              <div style={{marginBottom:"7px"}}><span className="emp">담당기능 :</span> 대학교 3학년 때 HTML을 독학하며 정적 웹사이트 개발</div>
-            </div>
         </div>
         <Link to="/contact"><img className="fixedNext" src={next_button} alt="next button"/></Link>
       </div>
