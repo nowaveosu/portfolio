@@ -15,7 +15,7 @@ function Projects() {
                 <button><a style={{color: "rgb(126, 206, 249)"}} href="https://github.com/nowaveosu/muri-shop" target="_blank" rel="noreferrer">Github</a></button>
                 <button><a style={{color: "rgb(126, 206, 249)"}} href="https://nomoreitch.vercel.app/" target="_blank" rel="noreferrer">Web</a></button></div><hr /><br /></div>
               <div style={{marginBottom:"7px"}}><span className="emp">기술 스택 :</span> Next.JS, Redux, MongoDB, TypeScript</div>
-              <div style={{marginBottom:"7px"}}><span className="emp">담당기능 :</span> 반응형디자인, 프론트엔드, 게시판, 댓글, DB및 서버구현 1인 프로젝트로 진행했음</div>
+              <div style={{marginBottom:"7px"}}><span className="emp">담당기능 :</span> 반응형디자인, 프론트엔드, 게시판, 댓글, DB및 백앤드 구현 1인 프로젝트로 진행했음</div>
               <div className="emp" style={{marginBottom:"-17px"}}>시연영상 📼</div>
               <video width="100%" controls>
                 <source src={require("../videos/lotion.mp4")} type="video/mp4"/>
