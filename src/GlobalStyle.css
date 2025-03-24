@@ -27,6 +27,7 @@ button {
     transform: translateY(-50%);
     left: 0%;
     width: 40px;
+    z-index: 1;
 }
 
 .fixedNext {
@@ -35,6 +36,7 @@ button {
     transform: translateY(-50%);
     right: 0%;
     width: 40px;
+    z-index: 1;
 }
 
 .content-box-small{
@@ -44,6 +46,8 @@ button {
   transform: translateX(-50%);
   width: 60%;
   min-height: 320px;
+  max-width: 1000px;
+  min-width: 500px;
   border-radius: 10px;
   margin: 10px 0 10px;
   background-color: rgb(65, 62, 62);
