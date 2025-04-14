@@ -1,4 +1,4 @@
-import { BrowserRouter,Routes, Route } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import Welcome from './pages/Welcome'
 import Layout from "./Layout";
 import Introduction from './pages/Introduction';
@@ -11,7 +11,6 @@ import Contact from './pages/Contact';
 
 function App() {
   return (
-    <BrowserRouter>
       <Routes>
         <Route path="/" element={<Layout />}> 
           <Route index element={<Welcome/>}></Route>
@@ -23,8 +22,6 @@ function App() {
           <Route path="/contact" element={<Contact/>}></Route>
         </Route>
       </Routes>    
-    </BrowserRouter>
-
   );
 }
 
