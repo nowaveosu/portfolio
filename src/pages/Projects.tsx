@@ -30,7 +30,7 @@ function Projects() {
               <div>2024.07</div>
               <div><div className="large-div">[hyper-tictactoe] 독특한 룰을 여러개 적용한 1인개발 온라인 매칭 틱택토게임&nbsp;
                 <button style={{ backgroundColor: "lightblue", fontWeight: "bold" }}><a style={{ color: "black", textDecoration: "none" }} href="https://github.com/nowaveosu/hyper-tictactoe" target="_blank" rel="noreferrer">Github</a></button>
-                <button style={{ backgroundColor: "lightblue", fontWeight: "bold" }}><a style={{ color: "black", textDecoration: "none" }} href="https://www.hyper-tictactoe.com/" target="_blank" rel="noreferrer">Link</a></button></div><hr /><br /></div>
+                <button style={{ backgroundColor: "lightblue", fontWeight: "bold" }}><a style={{ color: "black", textDecoration: "none" }} href="https://www.hypertictactoe.store/" target="_blank" rel="noreferrer">Link</a></button></div><hr /><br /></div>
               <div style={{marginBottom:"7px"}}><span className="emp">기술 스택 :</span> Next.js, TypeScript, Tailwind CSS, Socket.io, Node.js</div>
               <div style={{marginBottom:"7px"}}><span className="emp">담당기능 :</span> 로고, 반응형 디자인, 게임 룰 개발, 실시간 채팅 및 게임의 프론트엔드, 백엔드 구현, 디자인, 개발, 배포 모든 단계를 독자적으로 진행했음</div>
               <div className="emp" style={{marginBottom:"-17px"}}>시연영상 📼</div>
