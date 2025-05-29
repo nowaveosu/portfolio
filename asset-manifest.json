@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.cab30a8c.css",
-    "main.js": "/portfolio/static/js/main.49e85b08.js",
+    "main.js": "/portfolio/static/js/main.f6502954.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/board.mp4": "/portfolio/static/media/board.d35de54b3913f9c3c7fb.mp4",
     "static/media/lotion.mp4": "/portfolio/static/media/lotion.836f6baff75c374855f2.mp4",
@@ -10,6 +10,7 @@
     "static/media/delete_1.mp4": "/portfolio/static/media/delete_1.d3a99aa481ef1af6bc03.mp4",
     "static/media/write_1.mp4": "/portfolio/static/media/write_1.1f085012f9ca1907858f.mp4",
     "static/media/game.mp4": "/portfolio/static/media/game.eccf64f4128477c17006.mp4",
+    "static/media/kordle.mp4": "/portfolio/static/media/kordle.1d1300a1b719879b130d.mp4",
     "static/media/chat.mp4": "/portfolio/static/media/chat.b34d9d8df2d0b16203fd.mp4",
     "static/media/search.mp4": "/portfolio/static/media/search.08f4844b664adff8ec37.mp4",
     "static/media/matching.mp4": "/portfolio/static/media/matching.cd097979dbcd795d7ee7.mp4",
@@ -18,11 +19,11 @@
     "static/media/yeom.jpg": "/portfolio/static/media/yeom.29ce8dfe24c72c776f0e.jpg",
     "index.html": "/portfolio/index.html",
     "main.cab30a8c.css.map": "/portfolio/static/css/main.cab30a8c.css.map",
-    "main.49e85b08.js.map": "/portfolio/static/js/main.49e85b08.js.map",
+    "main.f6502954.js.map": "/portfolio/static/js/main.f6502954.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cab30a8c.css",
-    "static/js/main.49e85b08.js"
+    "static/js/main.f6502954.js"
   ]
 }
