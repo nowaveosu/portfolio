@@ -13,7 +13,7 @@ function Projects() {
               <div>2025.03</div>
               <div><div className="large-div">[가려움없는세상] 아토피 환자 정보공유 게시판&nbsp;
                 <button style={{ backgroundColor: "lightblue", fontWeight: "bold" }}><a style={{ color: "black", textDecoration: "none" }} href="https://github.com/nowaveosu/muri-shop" target="_blank" rel="noreferrer">Github</a></button>
-                <button style={{ backgroundColor: "lightblue", fontWeight: "bold" }}><a style={{ color: "black", textDecoration: "none" }} href="https://nomoreitch.vercel.app/" target="_blank" rel="noreferrer">Link</a></button></div><hr /><br /></div>
+                <button style={{ backgroundColor: "lightblue", fontWeight: "bold" }}><a style={{ color: "black", textDecoration: "none" }} href="https://nomoreitch.store/" target="_blank" rel="noreferrer">Link</a></button></div><hr /><br /></div>
               <div style={{marginBottom:"7px"}}><span className="emp">기술 스택 :</span> Next.JS, Redux, MongoDB, TypeScript</div>
               <div style={{marginBottom:"7px"}}><span className="emp">담당기능 :</span> 반응형디자인, 프론트엔드, 게시판, 댓글, DB및 백앤드 구현 1인 프로젝트로 진행했음</div>
               <div className="emp" style={{marginBottom:"-17px"}}>시연영상 📼</div>
@@ -25,6 +25,20 @@ function Projects() {
                 <source src={require("../videos/board.mp4")} type="video/mp4"/>
               </video>
               <div>말머리를 정하고 게시판에 글을 자유롭게 올리고 회원/비회원 차이를 둠, 댓글기능 구현</div>
+            </div>
+            <div className="project">
+              <div>2025.05</div>
+              <div><div className="large-div">[꼬들7] 어려운 우리말 퀴즈게임&nbsp;
+                <button style={{ backgroundColor: "lightblue", fontWeight: "bold" }}><a style={{ color: "black", textDecoration: "none" }} href="https://github.com/nowaveosu/kordle7" target="_blank" rel="noreferrer">Github</a></button>
+                <button style={{ backgroundColor: "lightblue", fontWeight: "bold" }}><a style={{ color: "black", textDecoration: "none" }} href="https://kordle7.site/" target="_blank" rel="noreferrer">Link</a></button></div><hr /><br /></div>
+              <div style={{marginBottom:"7px"}}><span className="emp">기술 스택 :</span> Next.JS, TypeScript, TailwindCSS</div>
+              <div style={{marginBottom:"7px"}}><span className="emp">담당기능 :</span> 반응형디자인, 프론트엔드, 게임 알고리즘 구현을 1인 프로젝트로 진행했음</div>
+              <div className="emp" style={{marginBottom:"-17px"}}>시연영상 📼</div>
+              <video width="100%" controls>
+                <source src={require("../videos/kordle.mp4")} type="video/mp4"/>
+              </video>
+              <div>게임룰, 반응형디자인, 키보드와 누르는 자판 모두 구현 </div>
+              <div>매일마다 바뀌는 낱말게임 뉴욕타임즈의 워들을 참고한 꼬들의 어려운버전 제작, 방문자수 일간 200명</div>
             </div>
             <div className="project">
               <div>2024.07</div>
