@@ -36,8 +36,8 @@ function Projects() {
               <div className="emp" style={{marginBottom:"-17px"}}>시연영상 📼</div>
               <video width="100%" controls>
                 <source src={require("../videos/kordle.mp4")} type="video/mp4"/>
-              </video>
-              <div>게임룰, 반응형디자인, 키보드와 누르는 자판 모두 구현 </div>
+              </video>s
+              <div>게임룰, 반응형디자인, 키보드와 누르는 자판 , 프론트엔드와 네이버api응답 백앤드 모두 구현 </div>
               <div>매일마다 바뀌는 낱말게임 뉴욕타임즈의 워들을 참고한 꼬들의 어려운버전 제작, 방문자수 일간 200명</div>
             </div>
             <div className="project">

@@ -46,7 +46,7 @@ button {
   transform: translateX(-50%);
   width: 60%;
   min-height: 320px;
-  max-width: 1000px;
+  max-width: 900px;
   min-width: 500px;
   border-radius: 10px;
   margin: 10px 0 10px;
