@@ -32,11 +32,11 @@ function Projects() {
                 <button style={{ backgroundColor: "lightblue", fontWeight: "bold" }}><a style={{ color: "black", textDecoration: "none" }} href="https://github.com/nowaveosu/kordle7" target="_blank" rel="noreferrer">Github</a></button>
                 <button style={{ backgroundColor: "lightblue", fontWeight: "bold" }}><a style={{ color: "black", textDecoration: "none" }} href="https://kordle7.site/" target="_blank" rel="noreferrer">Link</a></button></div><hr /><br /></div>
               <div style={{marginBottom:"7px"}}><span className="emp">기술 스택 :</span> Next.JS, TypeScript, TailwindCSS</div>
-              <div style={{marginBottom:"7px"}}><span className="emp">담당기능 :</span> 반응형디자인, 프론트엔드, 게임 알고리즘 구현을 1인 프로젝트로 진행했음</div>
+              <div style={{marginBottom:"7px"}}><span className="emp">담당기능 :</span> 반응형디자인, 프론트엔드, 백앤드, 게임 알고리즘 구현을 1인 프로젝트로 진행했음</div>
               <div className="emp" style={{marginBottom:"-17px"}}>시연영상 📼</div>
               <video width="100%" controls>
                 <source src={require("../videos/kordle.mp4")} type="video/mp4"/>
-              </video>s
+              </video>
               <div>게임룰, 반응형디자인, 키보드와 누르는 자판 , 프론트엔드와 네이버api응답 백앤드 모두 구현 </div>
               <div>매일마다 바뀌는 낱말게임 뉴욕타임즈의 워들을 참고한 꼬들의 어려운버전 제작, 방문자수 일간 200명</div>
             </div>
