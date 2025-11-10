@@ -14,7 +14,7 @@ function Education() {
           <div>컴퓨터공학과 전공자로, 재학중 2번의 앱 서비스 개발 및 해커톤에 참여, 1회 수상</div>
           <div style={{marginBottom:"45px"}}>4학년 학부연구생으로 근무하며 Python을 활용한 자동 채점 시스템 개발</div>
           <div className="large-div">자격증</div>
-          <div>Toeic : 790</div>
+          <div>TOEIC 790점</div>
           <div>정보처리기사 12/24일 취득예정 (가채점 실기합격예정) </div>
           <div>네트워크관리사 2급</div>
         </div>
