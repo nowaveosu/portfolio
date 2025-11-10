@@ -15,6 +15,7 @@ function Education() {
           <div style={{marginBottom:"45px"}}>4학년 학부연구생으로 근무하며 Python을 활용한 자동 채점 시스템 개발</div>
           <div className="large-div">자격증</div>
           <div>Toeic : 790</div>
+          <div>정보처리기사 12/24일 취득예정 (가채점 실기합격예정) </div>
           <div>네트워크관리사 2급</div>
         </div>
         <Link to="/evaluation"><img className="fixedNext" src={next_button} alt="next button"/></Link>
