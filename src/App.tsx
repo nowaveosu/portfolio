@@ -8,7 +8,7 @@ import Experience from './pages/Experience';
 import Projects from './pages/Projects';
 import Contact from './pages/Contact';
 
-// 브라우저라우트 오류수정 필요
+
 function App() {
   return (
       <Routes>
