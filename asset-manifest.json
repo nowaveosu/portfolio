@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.97de8ebc.css",
-    "main.js": "/portfolio/static/js/main.ced9c08b.js",
+    "main.js": "/portfolio/static/js/main.7f8adff3.js",
     "static/js/453.6264690d.chunk.js": "/portfolio/static/js/453.6264690d.chunk.js",
     "static/media/board.mp4": "/portfolio/static/media/board.d35de54b3913f9c3c7fb.mp4",
     "static/media/lotion.mp4": "/portfolio/static/media/lotion.836f6baff75c374855f2.mp4",
@@ -11,19 +11,19 @@
     "static/media/write_1.mp4": "/portfolio/static/media/write_1.1f085012f9ca1907858f.mp4",
     "static/media/game.mp4": "/portfolio/static/media/game.eccf64f4128477c17006.mp4",
     "static/media/kordle.mp4": "/portfolio/static/media/kordle.1d1300a1b719879b130d.mp4",
+    "static/media/about.jpg": "/portfolio/static/media/about.c8b5f029916c1157aab1.jpg",
     "static/media/chat.mp4": "/portfolio/static/media/chat.b34d9d8df2d0b16203fd.mp4",
     "static/media/search.mp4": "/portfolio/static/media/search.08f4844b664adff8ec37.mp4",
     "static/media/matching.mp4": "/portfolio/static/media/matching.cd097979dbcd795d7ee7.mp4",
     "static/media/joh.png": "/portfolio/static/media/joh.8f0d00fc877872fdab03.png",
-    "static/media/about.jpg": "/portfolio/static/media/about.b9712f73fd6fb288c669.jpg",
     "static/media/yeom.jpg": "/portfolio/static/media/yeom.29ce8dfe24c72c776f0e.jpg",
     "index.html": "/portfolio/index.html",
     "main.97de8ebc.css.map": "/portfolio/static/css/main.97de8ebc.css.map",
-    "main.ced9c08b.js.map": "/portfolio/static/js/main.ced9c08b.js.map",
+    "main.7f8adff3.js.map": "/portfolio/static/js/main.7f8adff3.js.map",
     "453.6264690d.chunk.js.map": "/portfolio/static/js/453.6264690d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.97de8ebc.css",
-    "static/js/main.ced9c08b.js"
+    "static/js/main.7f8adff3.js"
   ]
 }
