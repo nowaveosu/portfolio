@@ -7,7 +7,7 @@ function Contact() {
 
     return (
       <div>
-        <Link to="/projects"><img className="fixedPrev"src={prev_button} alt="prev_button"/></Link>
+        <Link to="/project3"><img className="fixedPrev"src={prev_button} alt="prev_button"/></Link>
         <div className="content-box-small">
           <div style={{padding: 40}}>
             <div className="large-div">회사의 발전에 기여하며 함께 성장하는 개발자가 되고 싶습니다. 연락 기다리겠습니다.</div>
