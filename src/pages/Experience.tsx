@@ -27,7 +27,7 @@ function Experience() {
           </div>
           
         </div>
-        <Link to="/projects"><img className="fixedNext" src={next_button} alt="next button"/></Link>
+        <Link to="/project1"><img className="fixedNext" src={next_button} alt="next button"/></Link>
       </div>
     );
   }
