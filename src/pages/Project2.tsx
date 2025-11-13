@@ -1,12 +1,17 @@
 import { Link } from "react-router-dom";
 import prev_button from "../images/prev_button.png"
 import next_button from "../images/next_button.png"
+import { useEffect } from "react";
 import "../GlobalStyle.css"
 
-function Project1() {
+function Project2() {
+    useEffect(() =>
+	window.scrollTo(0, 0)
+   	, [])
     return (
       <div>
-        <Link to="/project1"><img className="fixedPrev" src={prev_button} alt="prev button"/></Link>
+        <Link to="/project1">
+        <img className="fixedPrev" src={prev_button} alt="prev button"/></Link>
         <div className="content-box-small">
           <div className="large-div" style={{marginTop: 20, marginBottom: 30}}>프로젝트</div>
             <div className="project">
@@ -50,6 +55,6 @@ function Project1() {
     );
   }
   
-  export default Project1;
+  export default Project2;
 
 
